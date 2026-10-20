@@ -1,16 +1,13 @@
-## Hi there 👋
+# Connor Eaton
 
-<!--
-**eatonconnor1/eatonconnor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science and Mathematics at the University of Florida (expected May 2028).
 
-Here are some ideas to get you started:
+I focus on cybersecurity, especially detection, incident response, and digital forensics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm building
+- SIEM detection and incident response lab (in progress)
+- Network threat investigation and digital forensics lab (in progress)
+
+## Connect
+- LinkedIn: linkedin.com/in/eatonconnor
+- TryHackMe: tryhackme.com/p/eatonconnor
