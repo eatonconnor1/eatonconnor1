@@ -4,9 +4,6 @@ Computer Science and Mathematics at the University of Florida (expected May 2028
 
 I focus on cybersecurity, especially detection, incident response, and digital forensics.
 
-## What I'm building
-- Network threat investigation and digital forensics lab (in progress)
-
 ## Connect
 - LinkedIn: linkedin.com/in/eatonconnor
 - TryHackMe: tryhackme.com/p/eatonconnor
